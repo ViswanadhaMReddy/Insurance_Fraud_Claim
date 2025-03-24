@@ -1,4 +1,4 @@
-# Insurance Fraud Claims Dataset
+# Insurance Fraud Claims
 # Project Overview
 - This repository contains a Python-based analysis of an insurance claims dataset to identify patterns of fraudulent behavior. 
 - The project includes data preprocessing, exploratory data analysis (EDA), statistical testing, and a basic predictive model using a Random Forest Classifier.
